@@ -7,5 +7,5 @@
                  start-page="my.md">
 
     <toc-element topic="my.md"/>
-    <toc-element topic="macOS配置多SSH Key.md" />
+    <toc-element topic="macOS配置多SSHKey.md" />
 </instance-profile>
