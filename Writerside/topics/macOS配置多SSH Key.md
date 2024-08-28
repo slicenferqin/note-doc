@@ -11,7 +11,7 @@ ssh-keygen -t rsa -f ~/.ssh/id_rsa.github -C "xxx@gmail.com"
 ssh-keygen -t rsa -f ~/.ssh/id_rsa -C "xxx@corporation.com"
 ```
 此时，在.ssh目录下大致存在如下文件
-![ssh目录内容](images/img.png)
+![ssh目录内容](../images/img.png)
 ### 注册密钥到ssh-agent
 ```Bash
 # 注册
