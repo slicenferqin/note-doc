@@ -138,4 +138,4 @@ git push -u origin main
 在Actions中可以查看 workflow 的执行情况，全部执行通过就代表文章部署到站点成功，接下来就可以通过链接访问到页面了。
 ### 查看博客站点
 访问地址规则：https://用户名.github.io/仓库名,就可以看到站点页面了。
-
+![blog.png](blog.png)
