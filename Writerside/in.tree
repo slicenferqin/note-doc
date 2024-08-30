@@ -8,4 +8,6 @@
 
     <toc-element topic="my.md"/>
     <toc-element topic="macOS配置多SSHKey.md" />
+    <toc-element topic="JetBrains的WriterSide搭配GithubPage搭建自己的云笔记软件.md"/>
+    <toc-element topic="DolphinScheduler二次开发工作流定义支持自动选中节点.md"/>
 </instance-profile>
